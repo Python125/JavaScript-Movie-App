@@ -15,7 +15,7 @@ Key features include:
 
 ![slider3](/images/icons.png)
 
-- **Interactive Experience:** Click on movie or actor images to reveal intriguing details.
+- **Interactive Experience:** Click on the movie or actor images to reveal intriguing details.
 
 ![modal-window](/images/modal-window.png)
 
