@@ -2,7 +2,7 @@
 
 ![banner](/images/movie-app-banner.png)
 
-This web application was built in HTML, CSS, and JavaScript, and it offers an interactive exploration of the golden age of Hollywood. Discover iconic movies, legendary stars, and intriguing trivia from the 1930s and 1940s. Featuring interactive sliders, a quote generator, and a trivia quiz, this project is a love letter to classic cinema
+This web application was built in HTML, CSS, and JavaScript, and it offers an interactive exploration of the golden age of Hollywood. Discover iconic movies, legendary stars, and intriguing trivia from the 1930s and 1940s. Featuring interactive sliders, a quote generator, and a trivia quiz, this project is a love letter to classic cinema.
 
 Key features include:
 
