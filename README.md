@@ -1,6 +1,4 @@
-# Classic-Hollywood-Movie-App
-
-![banner](/images/movie-app-banner.png)
+# JavaScript-Movie-App
 
 This web application was built in HTML, CSS, and JavaScript, and it offers an interactive exploration of the golden age of Hollywood. Discover iconic movies, legendary stars, and intriguing trivia from the 1930s and 1940s. Featuring interactive sliders, a quote generator, and a trivia quiz, this project is a love letter to classic cinema. You can click the link to the website application here: https://scintillating-froyo-01bec6.netlify.app/
 
